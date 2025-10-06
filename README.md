@@ -53,7 +53,7 @@ You can find some of my projects below
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-### 🥅 Other
+### 💢 Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -64,11 +64,11 @@ You can find some of my projects below
 
 ### 💼 Work/Jobs
 
-🤝 I’m available for freelancing.
+🤝I’m available for freelancing.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [linkedin.com/in/lautaro-sanchez-](https://www.linkedin.com/in/lautaro-sanchez-/)
+🔍: [linkedin.com/in/lautaro-sanchez-](https://www.linkedin.com/in/lautaro-sanchez-/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : lautarosanchez.dev@gmail.com
+📧: lautarosanchez.dev@gmail.com
 
 
 
