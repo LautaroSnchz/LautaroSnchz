@@ -2,14 +2,12 @@
 
   <img align="right" top="500" height="300" width="400"  alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrYnF5NTh2OWdmeWJlcXFnNmRldWNmcTlmdnd1dTg1eXA0ZnlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJaQNVrOPC4Ja/giphy.gif">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
-
-
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> Code, coffee, and curiosity — the holy trinity
 
 
 ✔ I'm actively learning and building in the field of software engineering.
 You can find some of my projects below
+
 
 [![Website](https://img.shields.io/badge/Website-lsanchez.dev-blue?logo=googlechrome)](https://www.lsanchez.dev/)
 
