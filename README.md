@@ -2,7 +2,16 @@
 
   <img align="right" top="500" height="300" width="400"  alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrYnF5NTh2OWdmeWJlcXFnNmRldWNmcTlmdnd1dTg1eXA0ZnlvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJaQNVrOPC4Ja/giphy.gif">
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+
+
+
+
+
+✔ I'm actively learning and building in the field of software engineering.
+You can find some of my projects below
+
+[![Website](https://img.shields.io/badge/Website-lsanchez.dev-blue?logo=googlechrome)](https://www.lsanchez.dev/)
 
 # 💻 Tech Stack:
 
@@ -53,8 +62,11 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
 
 ### 💼 Work/Jobs
+
+🤝 I’m available for freelancing.
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [linkedin.com/in/lautaro-sanchez-](https://www.linkedin.com/in/lautaro-sanchez-/)
 
